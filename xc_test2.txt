@@ -10,5 +10,21 @@ git commit
 使用 -m 提供提交信息
 
 
+暂存区：
+git status
+查看暂存区
+
+git reset HEAD <文件路径>
+移除暂存区的文件
+
+本地仓库：
+git branch -a
+本地和远程分支  
+
+git pull 
+远程仓库：
+git remote
+查看远程仓库
+
 
 
